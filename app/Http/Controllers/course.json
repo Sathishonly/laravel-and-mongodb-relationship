@@ -1,0 +1,31 @@
+{
+   
+    "courseName":"Product",
+    "startDate":"2022-02-03T10:13:16.455Z",
+    "endDate":"2022-02-05T10:13:16.455Z",
+    "courseImage":"binary",
+    "capability":[
+       {
+          "capabilityName":"ProductCab1",
+          "skill":[
+             {
+                "skillName":"ProductSkill1"
+             },
+             {
+                "skillName":"ProductSkill2"
+             }
+          ]
+       },
+       {
+          "capabilityName":"ProductCab2",
+          "skill":[
+             {
+                "skillName":"ProductSkill3"
+             },
+             {
+                "skillName":"ProductSkill4"
+             }
+          ]
+       }
+    ]
+}
